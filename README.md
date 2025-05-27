@@ -1,6 +1,6 @@
 # 🐨 WildBall: Escape Dungeon
 
-<img src="Assets/Images/wildball_preview.jpg" alt="WildBall Gameplay Preview" width="600"/>
+<img src="Assets/Koala.jpg" alt="WildBall Gameplay Preview" width="600"/>
 
 ## 🎮 Game Overview
 
